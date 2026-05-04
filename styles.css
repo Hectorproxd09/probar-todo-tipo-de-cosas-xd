@@ -1,13 +1,22 @@
-.el_1777925330218 {
-  position: absolute;
-  left: 525px;
-  top: 84px;
-  z-index: 21; cursor: pointer;
+.el0{
+  position:absolute;
+  left:1px;
+  top:-48px;
+  z-index:0;
 }
-.el_1777925330218 {
-  font-size: 52.39999999999999px;
-  color: #000000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.el0{
+  font-size:353.9px;
+  color:#000000;
+}
+.el1{
+  position:absolute;
+  left:924px;
+  top:118px;
+  z-index:3;
+}
+.el1{
+  width:237px;
+  height:305px;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
 }
